@@ -1,1 +1,1 @@
-console.log("jakiś tekst")
+console.log("jakiś tekstdfdfdfd")
